@@ -1,0 +1,19 @@
+# CSC111 Final Project: Necessary Python libraries.
+
+# Testing and code checking
+hypothesis
+python-ta
+
+# Graphics and data visualization
+pygame
+
+# API
+requests==2.25.1
+
+# Other aids
+__future__
+math
+typing
+csv
+random
+json
